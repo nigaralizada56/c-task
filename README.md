@@ -1,1 +1,1 @@
-# c-task
+# c++ task
